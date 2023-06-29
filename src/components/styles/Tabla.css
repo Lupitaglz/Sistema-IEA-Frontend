@@ -1,0 +1,24 @@
+.tabla-programas {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  .tabla-programas th,
+  .tabla-programas td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .tabla-programas th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+    text-align: left;
+  }
+  
+  .modal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;}
